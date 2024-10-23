@@ -12,3 +12,4 @@ Los participantes aprenderán un flujo de trabajo básico usando **git** y **Git
 - Ricardo Cuauro
 - Christyan Montiel
 - Jasmin Chacon
+- Abraham Mendez
